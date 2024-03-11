@@ -2,3 +2,11 @@
 	path = engine/openwhisk
 	url = git@github.com:nuvolarisinc/openwhisk
 	branch = nuvolaris
+[submodule "operator/operator-manager"]
+	path = operator/operator-manager
+	url = git@github.com:nuvolarisinc/operator-manager
+	branch = main
+[submodule "operator/operator-community"]
+	path = operator/operator-community
+	url = git@github.com:nuvolarisinc/operator-community
+	branch = main
