@@ -1,7 +1,3 @@
-[submodule "operator"]
-	path = operator
-	url = git@github.com:nuvolarisinc/operator
-	branch = main
 [submodule "engine/openwhisk"]
 	path = engine/openwhisk
 	url = git@github.com:nuvolarisinc/openwhisk
