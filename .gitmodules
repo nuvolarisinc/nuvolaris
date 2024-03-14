@@ -1,7 +1,3 @@
-[submodule "engine/openwhisk"]
-	path = engine/openwhisk
-	url = git@github.com:nuvolarisinc/openwhisk
-	branch = nuvolaris
 [submodule "operator/nuvolaris-operator"]
 	path = operator/nuvolaris-operator
 	url = git@github.com:nuvolaris/nuvolaris-operator
@@ -10,3 +6,10 @@
 	path = operator/operator
 	url = git@github.com:nuvolaris/operator
 	branch = main
+[submodule "nuvolaris-runtimes-ng"]
+	path = nuvolaris-runtimes-ng
+	url = git@github.com:nuvolaris/nuvolaris-runtimes-ng
+	branch = main
+[submodule "nuvolaris-testing"]
+	path = nuvolaris-testing
+	url = git@github.com:nuvolaris/nuvolaris-testing
