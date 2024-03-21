@@ -14,3 +14,7 @@
 	path = nuvolaris-testing
 	url = git@github.com:nuvolaris/nuvolaris-testing
 	branch = main
+[submodule "cli/nuv"]
+	path = cli/nuv
+	url = git@github.com:nuvolaris/nuv
+	branch = main
