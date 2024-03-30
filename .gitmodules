@@ -1,9 +1,9 @@
 [submodule "operator/nuvolaris-operator"]
-	path = operator/nuvolaris-operator
+	path = nuvolaris-operator
 	url = git@github.com:nuvolaris/nuvolaris-operator
 	branch = main
 [submodule "operator/operator"]
-	path = operator/operator
+	path = nuvolaris-operator-enterprise
 	url = git@github.com:nuvolaris/operator
 	branch = main
 [submodule "nuvolaris-runtimes-ng"]
