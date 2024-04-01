@@ -6,10 +6,6 @@
 	path = nuvolaris-operator-enterprise
 	url = git@github.com:nuvolaris/operator
 	branch = main
-[submodule "nuvolaris-runtimes-ng"]
-	path = nuvolaris-runtimes-ng
-	url = git@github.com:nuvolaris/nuvolaris-runtimes-ng
-	branch = main
 [submodule "nuvolaris-testing"]
 	path = nuvolaris-testing
 	url = git@github.com:nuvolaris/nuvolaris-testing
